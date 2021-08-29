@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @msabur
-- 👀 I’m interested in ML, Linux and web development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on interesting projects
+I’m @msabur
+I’m interested in ML, Linux and web development
+I’m currently learning Python
+I’m looking to collaborate on interesting projects
 
 
 <!---
