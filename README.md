@@ -1,8 +1,5 @@
-- I’m @msabur
-- I’m interested in ML, Linux and web development
-- I’m currently learning Python
-- I’m looking to collaborate on interesting projects
-
+- Studying computer science
+- Interested in artificial intelligence, Linux, and web development
 
 <!---
 msabur/msabur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
