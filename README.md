@@ -1,5 +1,5 @@
-- Studying computer science
-- Interested in artificial intelligence, Linux, and web development
+- Welcome to my profile!
+- I'm interested in software development and open source.
 
 <!---
 msabur/msabur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
